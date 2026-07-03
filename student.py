@@ -1,3 +1,5 @@
 print("Name: Raj")
 print("Age: 20")
 print("Grade: A")
+print("School: DPS")
+print("City: New Delhi")
